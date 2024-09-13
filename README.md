@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Building Blocks
 
 Building Blocks is a web application that allows users to create and share interactive code snippets and tutorials. It provides a platform for developers to showcase their work, learn from others, and collaborate on coding projects.
