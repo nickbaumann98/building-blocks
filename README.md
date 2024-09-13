@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building Blocks
 
 Building Blocks is a web application that allows users to create and share interactive code snippets and tutorials. It provides a platform for developers to showcase their work, learn from others, and collaborate on coding projects.
@@ -80,3 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Nick Baumann - nickbaumann98@gmail.com
 
 Project Link: [https://github.com/nickbaumann98/building-blocks](https://github.com/nickbaumann98/building-blocks)
+=======
+# building-blocks
+>>>>>>> origin/main
