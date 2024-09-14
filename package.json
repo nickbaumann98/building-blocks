@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "firebase-tools": "^13.16.0"
+    "firebase-tools": "^13.17.0"
   },
   "dependencies": {
     "mailgun-js": "^0.22.0",
